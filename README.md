@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, Open CV, Data Analysis**
 
-- 👯 I’m looking to collaborate on **Machine Learning Enthusiast**
-
 - 💬 Ask me about **Java, Python, Machine Leaning**
 
 - 📫 How to reach me **samagra183@gmail.com**
