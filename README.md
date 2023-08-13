@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, Open CV, Data Analysis**
 
-- 💬 Ask me about **Java, Python, Machine Leaning, Data Science, Data Analysis, Computer Vision, Image Processing**
+- 💬 Ask me about **Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing**
 
 - 📫 How to reach me **samagra183@gmail.com**
 
