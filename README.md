@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samagra Shrivastava</h1>
 <h3 align="center">Student with a passion for coding and a drive to make a difference in the world.</h3>
 
- ![giphy](https://github.com/samagra44/samagra44/assets/77968722/3bcb7b3f-4885-4165-81a1-d581a0302283)
+![giphy (1)](https://github.com/samagra44/samagra44/assets/77968722/89c52323-011e-4a6f-b623-e2be3960e626)
 
 
 - 🔭 I’m currently working on **Machine Learning Real World Projects**
