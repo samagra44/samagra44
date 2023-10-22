@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samagra Shrivastava</h1>
 <h3 align="center">Student with a passion for coding and a drive to make a difference in the world.</h3>
 
-<p align="center">
-  <img src="https://www.kickstarter.com/projects/674610728/rescuties-vr-save-the-day-with-your-htc-vive-oculu?token=68e26bf6">
-</p>
+![giphy (1)](https://github.com/samagra44/samagra44/assets/77968722/a17d6d7c-4e5b-45ad-90a1-6c40e8bd2629)
+
 
 
 - 🔭 I’m currently working on **Machine Learning Real World Projects**
