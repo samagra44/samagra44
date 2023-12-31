@@ -3,6 +3,8 @@
 
 ![giphy](https://github.com/samagra44/samagra44/assets/77968722/c034bf67-5667-4ec9-9dea-c388e43f91b7)
 
+<img align="center" src="https://github.com/samagra44/samagra44/assets/77968722/c034bf67-5667-4ec9-9dea-c388e43f91b7" alt="samagra44" />
+
 - 🔭 I’m currently working on **Machine Learning Real World Projects**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, Open CV, Data Analysis**
