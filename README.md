@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samagra Shrivastava</h1>
-# 💫 About Me:
-😉 I’m currently working on Machine Learning Real World Projects<br><br>🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Open CV, Data Analysis<br><br>💬 Ask me about Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing<br><br>📫 How to reach me samagra183@gmail.com
+💫 About Me:
+I’m currently working on Machine Learning Real World Projects<br><br>🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Open CV, Data Analysis<br><br>💬 Ask me about Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing<br><br>📫 How to reach me samagra183@gmail.com
 
 
 ## 🌐 Socials:
