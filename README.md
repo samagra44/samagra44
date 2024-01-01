@@ -3,11 +3,12 @@
 I’m currently working on Machine Learning Real World Projects<br><br>🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Open CV, Data Analysis<br><br>💬 Ask me about Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing<br><br>📫 How to reach me samagra44@gmail.com
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samagrashrivastava) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samagra.shrivastava.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samagra07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samagra-shrivastava-050a8b204) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21960794) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SamagraShr07) 
 
 
-[![Portfolio](<https://github.com/samagra44/samagra44/assets/77968722/e0e08d87-6de7-42a0-be5d-019bac59b70a>)](<https://samagrshrivastava.samagra183.repl.co/>)
+[![Portfolio](<https://github.com/samagra44/samagra44/assets/77968722/075426cb-08d4-412c-8861-7c151c6ac983>)](<https://samagrshrivastava.samagra183.repl.co/>)
 
 
 
