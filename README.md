@@ -9,7 +9,7 @@ I’m currently working on Machine Learning Real World Projects<br><br>🌱 I’
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samagrashrivastava) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samagra.shrivastava.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samagra07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samagra-shrivastava-050a8b204) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21960794) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SamagraShr07) 
 <a href="https://samagrshrivastava.samagra183.repl.co/" style="text-decoration: none;">
-  <img src="https://static.vecteezy.com/system/resources/previews/011/067/273/original/portfolio-button-portfolio-speech-bubble-portfolio-colorful-web-banner-illustration-vector.jpg" alt="Visit My Portfolio" style="width:150px; height:40px;">
+  <img src="https://static.vecteezy.com/system/resources/previews/011/067/273/original/portfolio-button-portfolio-speech-bubble-portfolio-colorful-web-banner-illustration-vector.jpg" alt="Visit My Portfolio" style="width:100px; height:30px;">
 </a>
 
 
