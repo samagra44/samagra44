@@ -4,8 +4,8 @@
   <img src="https://github.com/samagra44/samagra44/assets/77968722/95ba37f0-8e42-4630-89ad-26c820660b6b" alt="animated" />
 </p>
 
-💫 About Me:
-I’m currently working on Machine Learning Real World Projects<br><br>🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Open CV, Data Analysis<br><br>💬 Ask me about Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing<br><br>📫 How to reach me samagra44@gmail.com
+💫 **About Me**:
+I’m currently working on Machine Learning Real World Projects<br><br>🌱 **I’m currently learning** Machine Learning, Deep Learning, Natural Language Processing, Open CV, Data Analysis<br><br>💬 **Ask me about** Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing<br><br>📫 **How to reach me** samagra44@gmail.com
 
 
 ## 🌐 Socials:
