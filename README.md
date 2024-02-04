@@ -5,7 +5,7 @@
 </p>
 
 💫 **About Me**:
-I’m currently working on Machine Learning Real World Projects<br><br>🌱 **I’m currently learning** Machine Learning, Deep Learning, Natural Language Processing, Open CV, Data Analysis<br><br>💬 **Ask me about** Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing<br><br>📫 **How to reach me** samagra44@gmail.com
+I’m currently working on Machine Learning, Django, Deep Learning and NLP Projects<br><br>🌱 **I’m currently learning** Machine Learning, Deep Learning, Natural Language Processing, Django, Data Analysis, Web Development<br><br>💬 **Ask me about** Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing<br><br>📫 **How to reach me** samagra44@gmail.com
 
 
 ## 🌐 Socials:
