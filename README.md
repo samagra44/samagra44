@@ -4,8 +4,8 @@
   <img src="https://github.com/samagra44/samagra44/assets/77968722/95ba37f0-8e42-4630-89ad-26c820660b6b" alt="animated" />
 </p>
 
-💫 **About Me**:
-I’m a dedicated and forward-thinking B.Tech student specializing in Computer Science, skilled in Java and Python programming, with expertise in machine learning and web development.<br><br>🌱 **I’m currently learning** Machine Learning, Deep Learning, Natural Language Processing, Django, Data Analysis, Web Development<br><br>💬 **Ask me about** Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing<br><br>📫 **How to reach me** samagra44@gmail.com
+🤘 **About Me**:
+I’m a dedicated and forward-thinking B.Tech student specializing in Computer Science, skilled in Java and Python programming, with expertise in machine learning and web development.<br><br>✌️ **I’m currently learning** Machine Learning, Deep Learning, Natural Language Processing, Django, Data Analysis, Web Development<br><br>💬 **Ask me about** Java, Python, Machine Learning, Data Science, Data Analysis, Computer Vision, Image Processing<br><br>📫 **How to reach me** samagra44@gmail.com
 
 
 ## 🌐 Socials:
