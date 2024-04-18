@@ -27,7 +27,7 @@ I’m a dedicated and forward-thinking B.Tech student specializing in Computer S
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samagra44&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Dev Meme 😂
+### Now that you've visited my profile, you'll have to leave with a smile. 😂
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
