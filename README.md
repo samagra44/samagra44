@@ -1,4 +1,4 @@
-<h1 align="center">🚩जय श्री राम🚩<br> Hi 👋, I'm Samagra Shrivastava </h1>
+<h1 align="center">🚩जय श्री राम🚩<br> Hi, I'm Samagra Shrivastava 👋 </h1>
 
 <p align="center">
   <img src="https://github.com/samagra44/samagra44/assets/77968722/95ba37f0-8e42-4630-89ad-26c820660b6b" width=750 height=300 alt="animated" />
