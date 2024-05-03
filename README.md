@@ -1,8 +1,7 @@
 <h1 align="center">🚩जय श्री राम🚩<br> Hi, I'm Samagra Shrivastava 👋 </h1>
 
-<p align="center">
-  <img src="https://github.com/samagra44/samagra44/assets/77968722/95ba37f0-8e42-4630-89ad-26c820660b6b" width=750 height=300 alt="animated" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<br><br>
 
 🤘 **About Me**:
 I’m a dedicated and forward-thinking B.Tech student specializing in Computer Science, skilled in Java and Python programming, with expertise in machine learning and web development.<br><br>✌️ **I’m currently learning** Machine Learning, Deep Learning, Natural Language Processing, Django, Data Analysis, Generative AI, Large Language Models (LLM's).<br><br>💬 **Ask me about** Java, Python, Machine Learning, Data Science, Data Analysis.<br><br>📫 **How to reach me** samagra44@gmail.com
