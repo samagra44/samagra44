@@ -1,6 +1,6 @@
 <h1 align="center">🚩जय श्री राम🚩<br> Hi, I'm Samagra Shrivastava 👋 </h1>
-s
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width=750 height=300>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width=850 height=300>
 <br><br>
 
 🤘 **About Me**:
