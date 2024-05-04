@@ -36,13 +36,8 @@ You can reach out to me via email at samagra44@gmail.com. I'm open to collaborat
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samagra44&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Now that you've visited my profile, you'll have to leave with a smile. 😂
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
+### Now that you've visited my profile, Take Motivation from here... 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 [![](https://visitcount.itsvg.in/api?id=samagra44&icon=1&color=0)](https://visitcount.itsvg.in)
