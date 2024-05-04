@@ -1,10 +1,19 @@
-<h1 align="center">🚩जय श्री राम🚩<br> Hi, I'm Samagra Shrivastava 👋 </h1>
+<h1 align="center">🚩जय श्री राम🚩<br> Hi, I'm Samagra Shrivastava <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200"> </h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=850 height=300>
-<br><br>
+<br>
 
-🤘 **About Me**:
-I’m a dedicated and forward-thinking B.Tech student specializing in Computer Science, skilled in Java and Python programming, with expertise in machine learning and web development.<br><br>✌️ **I’m currently learning** Machine Learning, Deep Learning, Natural Language Processing, Django, Data Analysis, Generative AI, Large Language Models (LLM's).<br><br>💬 **Ask me about** Java, Python, Machine Learning, Data Science, Data Analysis.<br><br>📫 **How to reach me** samagra44@gmail.com
+🤘 About Me:
+I'm a passionate B.Tech student majoring in Computer Science, with a focus on Artificial Intelligence and Machine Learning. Proficient in Java and Python programming languages, I'm dedicated to exploring the realms of AI and ML to solve real-world problems. My expertise also extends to web development.   
+
+✌️ I’m currently learning:
+I'm actively expanding my knowledge in various domains including Machine Learning, Deep Learning, Natural Language Processing, Django, Data Analysis, Generative AI, and Large Language Models (LLMs). Constant learning is key to staying at the forefront of AI technology!   
+
+💬 Ask me about:
+Whether it's Java, Python, Machine Learning, Data Science, or Data Analysis, feel free to reach out to me for any questions or discussions. I'm always excited to share knowledge and engage in meaningful conversations.    
+
+📫 How to reach me:
+You can reach out to me via email at samagra44@gmail.com. I'm open to collaborations, discussions, or any opportunities related to AI and ML. Let's connect and explore the fascinating world of artificial intelligence together!   
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <br><br>
