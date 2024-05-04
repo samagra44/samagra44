@@ -41,6 +41,13 @@ You can reach out to me via email at samagra44@gmail.com. I'm open to collaborat
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850>   
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/samagra44/samagra44/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 [![](https://visitcount.itsvg.in/api?id=samagra44&icon=1&color=0)](https://visitcount.itsvg.in)
