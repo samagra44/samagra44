@@ -30,12 +30,12 @@ You can reach out to me via email at samagra44@gmail.com. I'm open to collaborat
 ![](https://github-profile-trophy.vercel.app/?username=samagra44&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850> 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samagra44&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samagra44&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samagra44&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850>     
+![](https://github-readme-stats.vercel.app/api?username=samagra44&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samagra44&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samagra44&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850> 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samagra44&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=samagra44&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ### Have you read this..... 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)    
