@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=23&pause=1000&random=false&width=435&lines=%F0%9F%9A%A9%E0%A4%9C%E0%A4%AF+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B0%E0%A4%BE%E0%A4%AE%F0%9F%9A%A9;Hi%2C+I'm+Samagra+Shrivastava+%F0%9F%91%8B+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%A9%E0%A4%9C%E0%A4%AF+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B0%E0%A4%BE%E0%A4%AE%F0%9F%9A%A9;+Hi%2C+I'm+Samagra+Shrivastava+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=850 height=300>  
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850> 
