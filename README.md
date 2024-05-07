@@ -4,7 +4,6 @@
      
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=850 height=300>  
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850> 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850></h1> 
 
 🤘 **About Me**:
 I'm a passionate B.Tech student majoring in Computer Science, with a focus on Artificial Intelligence and Machine Learning. Proficient in Java and Python programming languages, I'm dedicated to exploring the realms of AI and ML to solve real-world problems. My expertise also extends to web development.           
