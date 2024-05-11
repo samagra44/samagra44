@@ -3,7 +3,7 @@
 </h1> 
 
 <p align="center">
-<img src="https://github.com/samagra44/samagra44/assets/77968722/199eb425-ae8d-4176-843b-3e05ba890d4b" width=850 height=300/>
+<img src="https://github.com/samagra44/samagra44/assets/77968722/eceb438b-3031-4b18-99ea-67932d2f36a6" width=850 height=300/>
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850> 
 
