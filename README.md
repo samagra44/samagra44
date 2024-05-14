@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=31&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%A9%E0%A4%9C%E0%A4%AF+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B0%E0%A4%BE%E0%A4%AE%F0%9F%9A%A9;+Hi%2C+I'm+Samagra+Shrivastava+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&color=E1F73F&background=FF674400&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%A9%E0%A4%9C%E0%A4%AF+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B0%E0%A4%BE%E0%A4%AE%F0%9F%9A%A9;Hi%2C+I'm+Samagra+Shrivastava+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1> 
 
 <p align="center">
@@ -7,17 +7,11 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850> 
 
-🤘 **About Me**:
-I'm a passionate B.Tech student majoring in Computer Science, with a focus on Artificial Intelligence and Machine Learning. Proficient in Java and Python programming languages, I'm dedicated to exploring the realms of AI and ML to solve real-world problems. My expertise also extends to web development.           
-        
-✌️ **I’m currently learning**:
-I'm actively expanding my knowledge in various domains including Machine Learning, Deep Learning, Natural Language Processing, Django, Data Analysis, Generative AI, and Large Language Models (LLMs). Constant learning is key to staying at the forefront of AI technology!   
+**Hey there!** I'm a Computer Science major, absolutely fascinated by the potential of Artificial Intelligence and Machine Learning.  While Java and Python are my programming languages of choice, I've also dabbled in web development, giving me a well-rounded tech toolkit.     
 
-💬 **Ask me about**:
-Whether it's Java, Python, Machine Learning, Data Science, or Data Analysis, feel free to reach out to me for any questions or discussions. I'm always excited to share knowledge and engage in meaningful conversations.    
+**Right now, I'm on a learning spree!** Deep Learning, Natural Language Processing, Generative AI – you name it, I'm diving in.  Mastering frameworks like Django and data analysis techniques with Large Language Models (LLMs) is also on my agenda.  In this fast-paced world of AI, I believe continuous learning is key to staying ahead of the curve.     
 
-📫 **How to reach me**:
-You can reach out to me via email at samagra44@gmail.com. I'm open to collaborations, discussions, or any opportunities related to AI and ML. Let's connect and explore the fascinating world of artificial intelligence together!   
+**Whether it's coding in Java or Python, or tackling challenges in Machine Learning, Data Science, or Data Analysis – I'm always up for a good conversation and sharing insights!** Feel free to drop me a line at samagra44@gmail.com if you're interested in collaborating, have something to discuss, or simply have any AI/ML questions bouncing around in your head. Let's unlock the potential of AI together – it's going to be an incredible journey!        
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850> 
@@ -40,7 +34,7 @@ You can reach out to me via email at samagra44@gmail.com. I'm open to collaborat
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samagra44&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850> 
-### Have you read this..... 
+### 🎯 Have you read this..... 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)    
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=850>
 
