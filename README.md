@@ -1,9 +1,10 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&color=E1F73F&background=FF674400&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%A9%E0%A4%9C%E0%A4%AF+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%B0%E0%A4%BE%E0%A4%AE%F0%9F%9A%A9;Hi%2C+I'm+Samagra+Shrivastava+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</h1> 
+</h1>
+
 
 <p align="center">
-<img src="https://github.com/samagra44/samagra44/assets/77968722/8f7f7f16-ced5-4af4-a8e7-82223a1c622f" width=850 height=300/>
+<img src="https://github.com/samagra44/samagra44/assets/77968722/433ee529-e3ec-4c21-849b-f344e40750fc" width=850 height=300/>
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=850>
 
