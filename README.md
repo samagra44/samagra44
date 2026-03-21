@@ -62,6 +62,5 @@ if __name__ == "__main__":
 
 
 ### 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=samagra44&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samagra44&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
