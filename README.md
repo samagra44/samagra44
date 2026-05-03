@@ -26,7 +26,7 @@ class SamagraShrivastava:
         self.name = "Samagra Shrivastava"
         self.role = "AI Engineer"
         self.email = "samagra44@gmail.com"
-        self.focus = ["Deep Learning", "NLP", "Generative AI", "Django", "LLMs"]
+        self.focus = ["Machine Learning", "NLP", "Langchain", "Langgraph", "FastAPI", "Docker"]
         self.learning_mindset = True
 
     def introduce(self):
@@ -60,7 +60,4 @@ if __name__ == "__main__":
 |       ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv\&logoColor=white)       |    ![Haystack](https://img.shields.io/badge/-Haystack-FF7F50?logo=elastic\&logoColor=white)    |           ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda\&logoColor=white)           |                                                                                                         |
 |       ![mlflow](https://img.shields.io/badge/-mlflow-0194D2?logo=mlflow\&logoColor=white)       |                                                                                                |          ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket\&logoColor=white)         |                                                                                                         |
 
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samagra44&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
