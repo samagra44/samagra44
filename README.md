@@ -1,16 +1,3 @@
-<!-- 🌌 FUTURISTIC AI DEVELOPER README BY CHATGPT -->
-<!-- Profile: Samagra Shrivastava | Theme: Cyber Dark Python -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4B4&height=200&section=header&text=Samagra%20Shrivastava%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Samagra+Shrivastava+-+AI+Engineer;Python+Developer+%7C+ML+Researcher;Building+the+Future+with+AI+🤖" alt="Typing SVG" />
-  </a>
-</h1>
-
 🎓 I'am Computer Science major with a passion for AI and ML; proficient in Python, and web development.    
 📚 Currently learning Deep Learning, NLP, Generative AI, Django, and LLMs.     
 🔄 Believes in continuous learning to stay ahead in the fast-paced AI world.    
