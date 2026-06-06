@@ -1,50 +1,49 @@
-🎓 I'am Computer Science major with a passion for AI and ML; proficient in Python, and web development.    
-📚 Currently learning Deep Learning, NLP, Generative AI, Django, and LLMs.     
-🔄 Believes in continuous learning to stay ahead in the fast-paced AI world.    
-💬 Open to collaboration and discussions; contact at samagra44@gmail.com for AI/ML queries.   
+# Hi, I'm Samagra Shrivastava
 
-     
+Computer Science student focused on building practical AI, machine learning, and LLM-powered applications. I work primarily with Python, backend systems, data science tools, and modern AI frameworks.
+
+I enjoy turning ideas into working products, especially where machine learning, natural language processing, retrieval-augmented generation, and web development meet.
+
+## About Me
+
+- Currently learning deep learning, NLP, generative AI, Django, and LLM application development
+- Interested in machine learning systems, intelligent agents, RAG pipelines, and backend engineering
+- Comfortable working with Python, FastAPI, LangChain, LangGraph, Docker, and data science libraries
+- Open to collaboration on AI/ML projects, research ideas, and practical developer tools
+- Reach me at: [samagra44@gmail.com](mailto:samagra44@gmail.com)
+
 ```python
-# Author: Samagra Shrivastava
-# Motto: "Code. Learn. Iterate. Evolve."
-
 class SamagraShrivastava:
     def __init__(self):
         self.name = "Samagra Shrivastava"
         self.role = "AI Engineer"
-        self.email = "samagra44@gmail.com"
-        self.focus = ["Machine Learning", "NLP", "Langchain", "Langgraph", "FastAPI", "Docker"]
-        self.learning_mindset = True
+        self.focus = [
+            "Machine Learning",
+            "Natural Language Processing",
+            "LLM Applications",
+            "RAG Systems",
+            "Backend Development",
+        ]
+        self.tools = ["Python", "FastAPI", "LangChain", "LangGraph", "Docker"]
 
-    def introduce(self):
-        print(f"Hi, I'm {self.name} — {self.role}")
-        print("CS major passionate about AI, ML, and Intelligent Systems.")
-        print(f"Reach me at: {self.email}")
-        print("Motto: Continuous learning keeps the mind sharp and the code smarter.")
-
-if __name__ == "__main__":
-    me = SamagraShrivastava()
-    me.introduce()
+    def motto(self):
+        return "Code. Learn. Iterate. Evolve."
 ```
 
-<div align="center">
-<h3>💻 My Tech Stack</h3>
-  
-|                                          **Languages**                                          |                                  **Frameworks / Libraries**                                  |                                               **AI / ML**                                              |                                      **Databases**                                     |
-| :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
-|       ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)       |      ![Django](https://img.shields.io/badge/-Django-092E20?logo=django\&logoColor=white)     |     ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)    |    ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white)    |
-|          ![Java](https://img.shields.io/badge/-Java-007396?logo=java\&logoColor=white)          |    ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi\&logoColor=white)    |         ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch\&logoColor=white)         |   ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite\&logoColor=white)  |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black) |       ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask\&logoColor=white)       |            ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras\&logoColor=white)            | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white) |
-|         ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white)        | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap\&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn\&logoColor=white) |                                                                                        |
+## Tech Stack
 
+| Languages | Frameworks / Libraries | AI / ML | Databases |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | |
 
-|                                         **Data Science**                                        |                                    **LLM & RAG Frameworks**                                    |                                               **DevOps & Tools**                                              |                                           **Cloud / Hosting**                                           |
-| :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|       ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas\&logoColor=white)       |  ![LangChain](https://img.shields.io/badge/-LangChain-0A3C5F?logo=chainlink\&logoColor=white)  |                   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)                  |        ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase\&logoColor=black)        |
-|         ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy\&logoColor=white)        |   ![LangGraph](https://img.shields.io/badge/-LangGraph-4B0082?logo=graphql\&logoColor=white)   |              ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white)              |          ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify\&logoColor=white)         |
-| ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib\&logoColor=white) | ![LangSmith](https://img.shields.io/badge/-LangSmith-1E90FF?logo=apachespark\&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions\&logoColor=white) |           ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render\&logoColor=white)           |
-|       ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly\&logoColor=white)       |   ![LangServe](https://img.shields.io/badge/-LangServe-8A2BE2?logo=fastify\&logoColor=white)   |              ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white)              | ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?logo=github-pages\&logoColor=white) |
-|       ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv\&logoColor=white)       |    ![Haystack](https://img.shields.io/badge/-Haystack-FF7F50?logo=elastic\&logoColor=white)    |           ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda\&logoColor=white)           |                                                                                                         |
-|       ![mlflow](https://img.shields.io/badge/-mlflow-0194D2?logo=mlflow\&logoColor=white)       |                                                                                                |          ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket\&logoColor=white)         |                                                                                                         |
-
-</div>
+| Data Science | LLM / RAG | DevOps & Tools | Cloud / Hosting |
+| :---: | :---: | :---: | :---: |
+| ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | ![LangChain](https://img.shields.io/badge/-LangChain-0A3C5F?logo=chainlink&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | ![LangGraph](https://img.shields.io/badge/-LangGraph-4B0082?logo=graphql&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) |
+| ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white) | ![LangSmith](https://img.shields.io/badge/-LangSmith-1E90FF?logo=apachespark&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) | ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white) |
+| ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white) | ![Haystack](https://img.shields.io/badge/-Haystack-FF7F50?logo=elastic&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?logo=github-pages&logoColor=white) |
+| ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) | | ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white) | |
+| ![MLflow](https://img.shields.io/badge/-MLflow-0194D2?logo=mlflow&logoColor=white) | | ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) | |
