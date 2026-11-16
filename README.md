@@ -1,49 +1,134 @@
-# Hi, I'm Samagra Shrivastava
+<h1 align="center">
+  Hi there, I'm <a href="https://github.com/samagra44">Samagra Shrivastava</a> 🚀
+</h1>
 
-Computer Science student focused on building practical AI, machine learning, and LLM-powered applications. I work primarily with Python, backend systems, data science tools, and modern AI frameworks.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+Emorphis+Technologies;Production+RAG+%26+Multi-Agent+Systems;Real-Time+Voice+AI+%26+FastAPI+Backends;AWS+Certified+AI+Practitioner" alt="Typing SVG" />
+</p>
 
-I enjoy turning ideas into working products, especially where machine learning, natural language processing, retrieval-augmented generation, and web development meet.
+<p align="center">
+  <a href="mailto:samagra44@gmail.com"><img src="https://img.shields.io/badge/Email-samagra44%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/samagra-shrivastava"><img src="https://img.shields.io/badge/LinkedIn-samagra--shrivastava-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/samagra44"><img src="https://img.shields.io/badge/GitHub-samagra44-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude_Platform_101-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Certified" />
+</p>
 
-## About Me
+---
 
-- Currently learning deep learning, NLP, generative AI, Django, and LLM application development
-- Interested in machine learning systems, intelligent agents, RAG pipelines, and backend engineering
-- Comfortable working with Python, FastAPI, LangChain, LangGraph, Docker, and data science libraries
-- Open to collaboration on AI/ML projects, research ideas, and practical developer tools
-- Reach me at: [samagra44@gmail.com](mailto:samagra44@gmail.com)
+### 💼 Professional Overview
+
+I am an **AI Engineer** specializing in building production-grade **Retrieval-Augmented Generation (RAG) systems**, **LLM-powered autonomous agents**, and **real-time voice AI architectures**. Currently engineering intelligent systems at **Emorphis Technologies**, I architect robust retrieval pipelines, multi-agent workflows with LangGraph, and high-throughput async backends with FastAPI—consistently cutting hallucination rates and scaling inference in production.
+
+- 🧠 **Core Competencies:** Production RAG, multi-agent state machines, low-latency Voice AI, Model Context Protocol (MCP), and multimodal analytics.
+- 🏆 **Recognition:** Winner of 45-Day AI Innovation Challenge; Open-source contributor with 150+ monthly PyPI package downloads.
+- 🎯 **What Drives Me:** Engineering resilient, explainable, and production-tested AI applications that solve high-stakes domain problems.
+
+---
+
+### 💻 System Profile & Spec
 
 ```python
-class SamagraShrivastava:
-    def __init__(self):
-        self.name = "Samagra Shrivastava"
-        self.role = "AI Engineer"
-        self.focus = [
-            "Machine Learning",
-            "Natural Language Processing",
-            "LLM Applications",
-            "RAG Systems",
-            "Backend Development",
-        ]
-        self.tools = ["Python", "FastAPI", "LangChain", "LangGraph", "Docker"]
+# samagra_core.py
+from dataclasses import dataclass, field
 
-    def motto(self):
-        return "Code. Learn. Iterate. Evolve."
+@dataclass
+class AIEngineer:
+    name: str = "Samagra Shrivastava"
+    role: str = "AI Engineer"
+    organization: str = "Emorphis Technologies"
+    credentials: list[str] = field(default_factory=lambda: [
+        "AWS Certified AI Practitioner",
+        "Anthropic Claude Platform 101",
+        "B.Tech in Computer Science",
+    ])
+    
+    production_impacts: dict[str, str] = field(default_factory=lambda: {
+        "enterprise_rag": "Architected retrieval pipelines cutting hallucinations by 25%",
+        "voice_telecom": "Built end-to-end Asterisk voice bot with local LLaMA 3.2 & XTTS",
+        "multi_agent_systems": "Designed 3-stage stateful research agents with LangGraph",
+        "multimodal_clinical": "Engineered Gemini-powered cardiac device report analyzers",
+    })
+
+    primary_stack: list[str] = field(default_factory=lambda: [
+        "Python", "FastAPI", "LangChain", "LangGraph", "Docker", "PostgreSQL"
+    ])
 ```
 
-## Tech Stack
+---
 
-| Languages | Frameworks / Libraries | AI / ML | Databases |
-| :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | |
+### 🛠️ Technical Arsenal
 
-| Data Science | LLM / RAG | DevOps & Tools | Cloud / Hosting |
-| :---: | :---: | :---: | :---: |
-| ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | ![LangChain](https://img.shields.io/badge/-LangChain-0A3C5F?logo=chainlink&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | ![LangGraph](https://img.shields.io/badge/-LangGraph-4B0082?logo=graphql&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) |
-| ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white) | ![LangSmith](https://img.shields.io/badge/-LangSmith-1E90FF?logo=apachespark&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) | ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white) |
-| ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white) | ![Haystack](https://img.shields.io/badge/-Haystack-FF7F50?logo=elastic&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?logo=github-pages&logoColor=white) |
-| ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) | | ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white) | |
-| ![MLflow](https://img.shields.io/badge/-MLflow-0194D2?logo=mlflow&logoColor=white) | | ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) | |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,mongodb,mysql,git,githubactions,linux,js,react&theme=dark" alt="Core Technologies" />
+  </a>
+</p>
+
+<details open>
+<summary><b>Categorized Technical Stack</b></summary>
+<br/>
+
+| Domain | Technologies, Frameworks & Tooling |
+| :--- | :--- |
+| **Generative AI & LLMs** | ![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration-4B0082?style=flat-square&logo=graphql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![RAG Systems](https://img.shields.io/badge/RAG-Hybrid_Search_%26_Rerank-2E7D32?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6A1B9A?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-Local_Inference-black?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Optimization-00796B?style=flat-square) |
+| **Vector DBs & Storage** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Storage-FF5722?style=flat-square) ![Weaviate](https://img.shields.io/badge/Weaviate-Vector_Search-00B0FF?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-Similarity_Search-0091EA?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Backend & Real-Time** | ![FastAPI](https://img.shields.io/badge/FastAPI-Async_REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![Asterisk](https://img.shields.io/badge/Asterisk-PBX_Voice-E04E39?style=flat-square) ![Vosk STT](https://img.shields.io/badge/Vosk-Speech_to_Text-263238?style=flat-square) ![XTTS](https://img.shields.io/badge/Coqui_XTTS-Voice_Synthesis-FF007F?style=flat-square) |
+| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-Source_Control-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-Pipelines-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</details>
+
+---
+
+### 🚀 Key Production & Architecture Highlights
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                        ENTERPRISE MULTI-AGENT & RAG PIPELINE                           │
+│                                                                                        │
+│   Client Query / Voice Ingestion                                                       │
+│                 │                                                                      │
+│                 ▼                                                                      │
+│   [FastAPI Async Gateway] ──► [LangGraph Intent Router & State Machine]                │
+│                                                │                                       │
+│                      ┌─────────────────────────┴────────────────────────┐              │
+│                      ▼                                                  ▼              │
+│          [Hybrid RAG Engine]                                 [Tool Agent Sandbox]      │
+│          • Metadata-Based Filtering                          • Structured SQL Queries  │
+│          • Vector Retrieval (Chroma / FAISS)                 • External MCP APIs       │
+│          • BM25 Keyword Hybrid Search                        • Source-Attribution      │
+│                      │                                                  │              │
+│                      └─────────────────────────┬────────────────────────┘              │
+│                                                ▼                                       │
+│                             [Evaluator & Hallucination Guardrail]                      │
+│                                                │                                       │
+│                                                ▼                                       │
+│                       Synthesized Response & Real-Time Audio (XTTS)                    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+* **Production RAG & Knowledge Engines:** Architected retrieval systems over large-scale unstructured datasets with metadata-based filtering and post-response source-attribution, improving relevance and reducing hallucinations by 25%.
+* **Stateful Multi-Agent Orchestration:** Designed autonomous research and routing agents using LangGraph with state transitions governed by `TypedDict` schemas and conditional routing nodes.
+* **Real-Time Telecom Voice AI:** Built an end-to-end conversational call-system using Asterisk, Vosk STT, XTTS, and local LLaMA 3.2 7B models via Ollama with low-latency audio streaming.
+* **Multimodal Clinical Analysis:** Integrated Gemini's vision-language models to parse complex ECG, EGM, and CIED transmission documents, combining risk-scoring engines with automated SOAP clinical note synthesis.
+
+---
+
+### 📊 GitHub Telemetry & Activity
+
+<div align="center">
+  <a href="https://github.com/samagra44">
+    <img src="https://github-readme-stats.vercel.app/api?username=samagra44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="155" alt="Samagra's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samagra44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="155" alt="Top Languages" />
+  </a>
+  <br/>
+  <a href="https://github.com/samagra44">
+    <img src="https://streak-stats.demolab.com/?user=samagra44&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9E3B&currStreakLabel=58A6FF" height="145" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%" />
+</p>
