@@ -80,55 +80,12 @@ class AIEngineer:
 
 ---
 
-### 🚀 Key Production & Architecture Highlights
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                        ENTERPRISE MULTI-AGENT & RAG PIPELINE                           │
-│                                                                                        │
-│   Client Query / Voice Ingestion                                                       │
-│                 │                                                                      │
-│                 ▼                                                                      │
-│   [FastAPI Async Gateway] ──► [LangGraph Intent Router & State Machine]                │
-│                                                │                                       │
-│                      ┌─────────────────────────┴────────────────────────┐              │
-│                      ▼                                                  ▼              │
-│          [Hybrid RAG Engine]                                 [Tool Agent Sandbox]      │
-│          • Metadata-Based Filtering                          • Structured SQL Queries  │
-│          • Vector Retrieval (Chroma / FAISS)                 • External MCP APIs       │
-│          • BM25 Keyword Hybrid Search                        • Source-Attribution      │
-│                      │                                                  │              │
-│                      └─────────────────────────┬────────────────────────┘              │
-│                                                ▼                                       │
-│                             [Evaluator & Hallucination Guardrail]                      │
-│                                                │                                       │
-│                                                ▼                                       │
-│                       Synthesized Response & Real-Time Audio (XTTS)                    │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
 * **Production RAG & Knowledge Engines:** Architected retrieval systems over large-scale unstructured datasets with metadata-based filtering and post-response source-attribution, improving relevance and reducing hallucinations by 25%.
 * **Stateful Multi-Agent Orchestration:** Designed autonomous research and routing agents using LangGraph with state transitions governed by `TypedDict` schemas and conditional routing nodes.
 * **Real-Time Telecom Voice AI:** Built an end-to-end conversational call-system using Asterisk, Vosk STT, XTTS, and local LLaMA 3.2 7B models via Ollama with low-latency audio streaming.
 * **Multimodal Clinical Analysis:** Integrated Gemini's vision-language models to parse complex ECG, EGM, and CIED transmission documents, combining risk-scoring engines with automated SOAP clinical note synthesis.
 
 ---
-
-### 📊 GitHub Telemetry & Activity
-
-<div align="center">
-  <a href="https://github.com/samagra44">
-    <img src="https://github-readme-stats.vercel.app/api?username=samagra44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="155" alt="Samagra's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samagra44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="155" alt="Top Languages" />
-  </a>
-  <br/>
-  <a href="https://github.com/samagra44">
-    <img src="https://streak-stats.demolab.com/?user=samagra44&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9E3B&currStreakLabel=58A6FF" height="145" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%" />
 </p>
