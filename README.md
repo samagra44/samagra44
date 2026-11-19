@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://github.com/samagra44">Samagra Shrivastava</a> 🚀
+  Hi there, I'm Samagra Shrivastava</a>
 </h1>
 
 <p align="center">
